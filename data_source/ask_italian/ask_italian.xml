@@ -1,0 +1,1710 @@
+<?xml version='1.0'?>
+<FHRSestablishments>
+    <Header>
+        <ExtractDate>2024-10-24</ExtractDate>
+        <ItemCount>50</ItemCount>
+        <ReturnCode>Success</ReturnCode>
+    </Header>
+    <EstablishmentCollection>
+        <EstablishmentDetail>
+            <AddressLine1>186 High Street</AddressLine1>
+            <AddressLine2>Lewes</AddressLine2>
+            <AddressLine3>East Sussex</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>164839</FHRSID>
+            <LocalAuthorityBusinessID>PI/000006982</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>105</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>ehealth.ldc@lewes-eastbourne.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Lewes</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.lewes-eastbourne.gov.uk/</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>BN7 1XX</PostCode>
+            <RatingDate>2023-11-27T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>0.010141</longitude>
+                <latitude>50.873314</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>404 - 405 Chapelfield Plain</AddressLine1>
+            <AddressLine2>Chapelfield</AddressLine2>
+            <AddressLine3>Norwich</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1275820</FHRSID>
+            <LocalAuthorityBusinessID>20/00264/FD_HS</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>232</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>foodandsafety@norwich.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Norwich City</LocalAuthorityName>
+            <LocalAuthorityWebSite>https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>NR2 1SZ</PostCode>
+            <RatingDate>2024-01-10T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>1.289757</longitude>
+                <latitude>52.625883</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Unit SVL03</AddressLine1>
+            <AddressLine2>Plaza - Lower</AddressLine2>
+            <AddressLine3>Bluewater</AddressLine3>
+            <AddressLine4>Greenhithe</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>521218</FHRSID>
+            <LocalAuthorityBusinessID>13/00030/FPREM/D</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>181</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>eh.admin@dartford.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Dartford</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.dartford.gov.uk/foodsafety/index.htm</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>DA9 9SG</PostCode>
+            <RatingDate>2024-01-30T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>0.271433</longitude>
+                <latitude>51.437746</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>41-43 SPRING STREET</AddressLine1>
+            <AddressLine2/>
+            <AddressLine3>LONDON</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>427824</FHRSID>
+            <LocalAuthorityBusinessID>00559/0041/0/001</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>533</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>foodsafety@westminster.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Westminster</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.westminster.gov.uk/</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>W2 1JA</PostCode>
+            <RatingDate>2023-03-27T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.1749723</longitude>
+                <latitude>51.5144303</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Unit Ug4 Bh2</AddressLine1>
+            <AddressLine2>Exeter Road</AddressLine2>
+            <AddressLine3>Bournemouth</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>934018</FHRSID>
+            <LocalAuthorityBusinessID>137268</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>872</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>food.safety@bcpcouncil.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Bournemouth, Christchurch and Poole</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.bcpcouncil.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>BH2 5AU</PostCode>
+            <RatingDate>2024-03-20T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-1.879271</longitude>
+                <latitude>50.718358</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>23 Grafton Way</AddressLine1>
+            <AddressLine2>Ipswich</AddressLine2>
+            <AddressLine3>Suffolk</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1653174</FHRSID>
+            <LocalAuthorityBusinessID>FR/000003692</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>299</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>food.safety@ipswich.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Ipswich</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.ipswich.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>IP1 1AX</PostCode>
+            <RatingDate>2023-04-20T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>1.150987</longitude>
+                <latitude>52.053232</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>2 High Street</AddressLine1>
+            <AddressLine2>Cathedral Square</AddressLine2>
+            <AddressLine3>Worcester</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1279354</FHRSID>
+            <LocalAuthorityBusinessID>20/00528/FOOD</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>151</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>enquiries@worcsregservices.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Worcester City</LocalAuthorityName>
+            <LocalAuthorityWebSite>https://www.worcsregservices.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>WR1 2QE</PostCode>
+            <RatingDate>2023-11-24T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-2.22010898590088</longitude>
+                <latitude>52.1905517578125</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>38 East Street</AddressLine1>
+            <AddressLine2>Chichester</AddressLine2>
+            <AddressLine3>West Sussex</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>773310</FHRSID>
+            <LocalAuthorityBusinessID>15/00145/FOOD</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>325</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>healthprotection@chichester.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Chichester</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.chichester.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>PO19 1HX</PostCode>
+            <RatingDate>2023-12-01T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.775456</longitude>
+                <latitude>50.836348</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>38 North Street</AddressLine2>
+            <AddressLine3>Taunton</AddressLine3>
+            <AddressLine4>Somerset</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>855423</FHRSID>
+            <LocalAuthorityBusinessID>16893</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>281</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>somersetenquiries@somerset.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Somerset</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.somerset.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>TA1 1LW</PostCode>
+            <RatingDate>2023-06-26T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-3.103061</longitude>
+                <latitude>51.016498</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Court Street House</AddressLine1>
+            <AddressLine2>Court Street</AddressLine2>
+            <AddressLine3>Faversham</AddressLine3>
+            <AddressLine4>Kent</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>713973</FHRSID>
+            <LocalAuthorityBusinessID>PI/000080735/SW</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>189</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>EHAdmin@MidKent.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Swale</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.swale.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>ME13 7AT</PostCode>
+            <RatingDate>2024-02-11T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>0.892431</longitude>
+                <latitude>51.317517</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Unit 21</AddressLine1>
+            <AddressLine2>Bell Court</AddressLine2>
+            <AddressLine3>Stratford-upon-Avon</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Other catering premises</BusinessType>
+            <BusinessTypeID>7841</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>997107</FHRSID>
+            <LocalAuthorityBusinessID>17/00127/FOOD</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>320</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>envhealth@stratford-dc.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Stratford-on-Avon</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.stratford.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>CV37 6EX</PostCode>
+            <RatingDate>2024-03-01T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-1.53713</longitude>
+                <latitude>52.298</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>8-10 Cambridge Street</AddressLine2>
+            <AddressLine3>Sheffield</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>436112</FHRSID>
+            <LocalAuthorityBusinessID>25683</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>425</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>healthprotection@sheffield.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Sheffield</LocalAuthorityName>
+            <LocalAuthorityWebSite>https://www.sheffield.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>S1 4HP</PostCode>
+            <RatingDate>2024-03-02T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-1.472215</longitude>
+                <latitude>53.379216</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Unit 4 The Boardwalk</AddressLine1>
+            <AddressLine2>Intu Lakeside</AddressLine2>
+            <AddressLine3>West Thurrock Way</AddressLine3>
+            <AddressLine4>West Thurrock</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1004892</FHRSID>
+            <LocalAuthorityBusinessID>17/00105/CP</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>894</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>foodsafety@thurrock.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Thurrock</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.thurrock.gov.uk/food</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>RM20 2ZN</PostCode>
+            <RatingDate>2024-02-13T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>0.281385</longitude>
+                <latitude>51.487302</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>304 To 305 The Loft</AddressLine1>
+            <AddressLine2>Westfield Stratford City</AddressLine2>
+            <AddressLine3>Montfichet Road</AddressLine3>
+            <AddressLine4>Stratford</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1275979</FHRSID>
+            <LocalAuthorityBusinessID>20/00428/FOOD</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>525</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>food@newham.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Newham</LocalAuthorityName>
+            <LocalAuthorityWebSite>https://www.newham.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>E20 1ET</PostCode>
+            <RatingDate>2023-03-16T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.00650899996981025</longitude>
+                <latitude>51.5436401367188</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>Unit 1 Brayford Wharf North</AddressLine2>
+            <AddressLine3>Lincoln</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>330174</FHRSID>
+            <LocalAuthorityBusinessID>40966</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>221</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>food@lincoln.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Lincoln City</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.lincoln.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>LN1 1YW</PostCode>
+            <RatingDate>2023-04-05T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.546732</longitude>
+                <latitude>53.229801</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>15 Stevenage Leisure Park</AddressLine1>
+            <AddressLine2>Kings Way</AddressLine2>
+            <AddressLine3>Stevenage</AddressLine3>
+            <AddressLine4>Herts</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1290341</FHRSID>
+            <LocalAuthorityBusinessID>20/00073/REST</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>161</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>env.health@stevenage.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Stevenage</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.stevenage.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>SG1 2UA</PostCode>
+            <RatingDate>2023-04-05T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.208637</longitude>
+                <latitude>51.899804</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>4 Bond Street</AddressLine1>
+            <AddressLine2>Chelmsford</AddressLine2>
+            <AddressLine3/>
+            <AddressLine4/>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1279531</FHRSID>
+            <LocalAuthorityBusinessID>20/00204/COMM</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>113</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>safe.support@chelmsford.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Chelmsford</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.chelmsford.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>CM1 1GH</PostCode>
+            <RatingDate>2023-08-02T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>0.475412</longitude>
+                <latitude>51.734816</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>1 Market Place</AddressLine1>
+            <AddressLine2>Wetherby</AddressLine2>
+            <AddressLine3/>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1230693</FHRSID>
+            <LocalAuthorityBusinessID>19/01318/COMM</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>413</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>food.safety@leeds.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Leeds</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.leeds.gov.uk/</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>LS22 6LQ</PostCode>
+            <RatingDate>2023-06-24T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-1.387137</longitude>
+                <latitude>53.927835</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Ask</AddressLine1>
+            <AddressLine2>76 Lemon Street</AddressLine2>
+            <AddressLine3>Truro</AddressLine3>
+            <AddressLine4>Cornwall</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1285469</FHRSID>
+            <LocalAuthorityBusinessID>CP20_000880</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>705</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>publicprotection@cornwall.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Cornwall</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.cornwall.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>TR1 2PN</PostCode>
+            <RatingDate>2023-10-04T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-5.052139</longitude>
+                <latitude>50.261922</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>ASK Italian</AddressLine1>
+            <AddressLine2>The Kings Head</AddressLine2>
+            <AddressLine3>Carfax</AddressLine3>
+            <AddressLine4>Horsham</AddressLine4>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>406298</FHRSID>
+            <LocalAuthorityBusinessID>CAR/17</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>327</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>publichealth.licensing@horsham.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Horsham</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.horsham.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>RH12 1EE</PostCode>
+            <RatingDate>2022-09-07T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>null</longitude>
+                <latitude>null</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>16 North Hill</AddressLine1>
+            <AddressLine2>Colchester</AddressLine2>
+            <AddressLine3>Essex</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1606192</FHRSID>
+            <LocalAuthorityBusinessID>FR/000000882</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>114</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>food.team@colchester.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Colchester</LocalAuthorityName>
+            <LocalAuthorityWebSite>https://www.colchester.gov.uk/</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>CO1 1DZ</PostCode>
+            <RatingDate>2023-02-20T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>0.8966227</longitude>
+                <latitude>51.8914064</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Ground Floor</AddressLine1>
+            <AddressLine2>Hanover House</AddressLine2>
+            <AddressLine3>Montpellier Walk</AddressLine3>
+            <AddressLine4>Cheltenham</AddressLine4>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>785172</FHRSID>
+            <LocalAuthorityBusinessID>15/00147/FOOD</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>124</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>envhealth@cheltenham.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Cheltenham</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.cheltenham.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>GL50 1SD</PostCode>
+            <RatingDate>2023-09-15T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-2.08203</longitude>
+                <latitude>51.895764</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Unit B</AddressLine1>
+            <AddressLine2>1 Piccadilly Gardens</AddressLine2>
+            <AddressLine3>Manchester</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>776104</FHRSID>
+            <LocalAuthorityBusinessID>1501731</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>415</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>envhealth@manchester.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Manchester</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.manchester.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>M1 1RG</PostCode>
+            <RatingDate>2021-09-06T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-2.236456</longitude>
+                <latitude>53.480341</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>Unit 4 Freemans Place</AddressLine2>
+            <AddressLine3>Walkergate</AddressLine3>
+            <AddressLine4>Durham City</AddressLine4>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1334698</FHRSID>
+            <LocalAuthorityBusinessID>317008</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>706</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>ehcp@durham.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Durham</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.durham.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>DH1 1SQ</PostCode>
+            <RatingDate>2023-01-03T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-1.576311</longitude>
+                <latitude>54.777994</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Great North Leisure Park  Chaplin Square London</AddressLine1>
+            <AddressLine2/>
+            <AddressLine3/>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1301422</FHRSID>
+            <LocalAuthorityBusinessID>20/00416/COMM</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>502</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>FoodSafety@barnet.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Barnet</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.barnet.gov.uk/</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>N12 0GL</PostCode>
+            <RatingDate>2022-10-20T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.173568</longitude>
+                <latitude>51.604808</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Ground Floor</AddressLine1>
+            <AddressLine2>St Georges House</AddressLine2>
+            <AddressLine3>2 Bromley Road</AddressLine3>
+            <AddressLine4>Beckenham</AddressLine4>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>358170</FHRSID>
+            <LocalAuthorityBusinessID>00000/0003/7/346</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>505</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>food@bromley.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Bromley</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.bromley.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>BR3 5JE</PostCode>
+            <RatingDate>2024-06-27T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.024114</longitude>
+                <latitude>51.408361</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Ground Floor &amp; Basement</AddressLine1>
+            <AddressLine2>56 New Street</AddressLine2>
+            <AddressLine3>Ladywood</AddressLine3>
+            <AddressLine4>Birmingham</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>604672</FHRSID>
+            <LocalAuthorityBusinessID>PI/000512463</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>402</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>Admin.EH@birmingham.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Birmingham</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.birmingham.gov.uk/environmental-health</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>B2 4EG</PostCode>
+            <RatingDate>2024-07-22T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-1.898743</longitude>
+                <latitude>52.479434</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Unit 2 Lower Level Greys Quarter</AddressLine1>
+            <AddressLine2>Eldon Square</AddressLine2>
+            <AddressLine3>Newcastle Upon Tyne</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>914905</FHRSID>
+            <LocalAuthorityBusinessID>16/00235/MIXED</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>416</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>psr@newcastle.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Newcastle Upon Tyne</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.newcastle.gov.uk/</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>NE1 7AP</PostCode>
+            <RatingDate>2024-07-03T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>null</longitude>
+                <latitude>null</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>9-10 St Johns Street</AddressLine2>
+            <AddressLine3>Stamford</AddressLine3>
+            <AddressLine4>Lincolnshire</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>238604</FHRSID>
+            <LocalAuthorityBusinessID>6611</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>224</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>healthy@southkesteven.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>South Kesteven</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.southkesteven.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>PE9 2DB</PostCode>
+            <RatingDate>2024-08-06T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.480413</longitude>
+                <latitude>52.651602</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>41 - 53 High Street</AddressLine1>
+            <AddressLine2>Epsom</AddressLine2>
+            <AddressLine3>Surrey</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>28486</FHRSID>
+            <LocalAuthorityBusinessID>09/00003/COMM</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>306</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>ehpublichealth@epsom-ewell.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Epsom and Ewell</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.epsom-ewell.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>KT19 8DD</PostCode>
+            <RatingDate>2021-11-02T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.26533</longitude>
+                <latitude>51.333622</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>North Wharf</AddressLine1>
+            <AddressLine2>Sandside</AddressLine2>
+            <AddressLine3>Scarborough</AddressLine3>
+            <AddressLine4>North Yorkshire</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>168499</FHRSID>
+            <LocalAuthorityBusinessID>PI/000013299</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>250</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>ehts.ham@northyorks.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>North Yorkshire</LocalAuthorityName>
+            <LocalAuthorityWebSite>https://www.northyorks.gov.uk/</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>YO11 1PP</PostCode>
+            <RatingDate>2022-01-11T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.391535</longitude>
+                <latitude>54.283926</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>3 Derby Road</AddressLine1>
+            <AddressLine2>Ashby De La Zouch</AddressLine2>
+            <AddressLine3>Leicestershire</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1285716</FHRSID>
+            <LocalAuthorityBusinessID>20/00109/MIXED</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>215</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>ehealth@nwleicestershire.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>North West Leicestershire</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.nwleics.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>LE65 2HE</PostCode>
+            <RatingDate>2023-07-12T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-1.47398495674133</longitude>
+                <latitude>52.7483558654785</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>12 Old Market Place</AddressLine2>
+            <AddressLine3/>
+            <AddressLine4>Warrington</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1283735</FHRSID>
+            <LocalAuthorityBusinessID>123779</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>890</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>environmental.health@warrington.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Warrington</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.warrington.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>WA1 1QB</PostCode>
+            <RatingDate>2023-08-16T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-2.5940703</longitude>
+                <latitude>53.3897047</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Warehouse 6</AddressLine1>
+            <AddressLine2>Princes Dock Street</AddressLine2>
+            <AddressLine3>Kingston Upon Hull</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>193339</FHRSID>
+            <LocalAuthorityBusinessID>34485</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>866</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>foodandhealth&amp;safety@hullcc.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Hull City</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.hull.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>HU1 2LP</PostCode>
+            <RatingDate>2023-02-09T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.337639987468719</longitude>
+                <latitude>53.7419357299805</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>91 High Street</AddressLine2>
+            <AddressLine3>Billericay</AddressLine3>
+            <AddressLine4>Essex</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>74111</FHRSID>
+            <LocalAuthorityBusinessID>17022</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>109</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>ehs@basildon.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Basildon</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.basildon.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>CM12 9AS</PostCode>
+            <RatingDate>2023-04-27T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>0.417242</longitude>
+                <latitude>51.625584</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Ask Ask Restaurant</AddressLine1>
+            <AddressLine2>The Market Hall</AddressLine2>
+            <AddressLine3>Market Place</AddressLine3>
+            <AddressLine4>Wells</AddressLine4>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1757606</FHRSID>
+            <LocalAuthorityBusinessID>FR/201900478</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>281</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>somersetenquiries@somerset.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Somerset</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.somerset.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>BA5 2RB</PostCode>
+            <RatingDate>2023-10-10T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-2.6446438</longitude>
+                <latitude>51.2092718</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>101 HIGH STREET</AddressLine1>
+            <AddressLine2/>
+            <AddressLine3>MARLBOROUGH</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>ASK Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>261593</FHRSID>
+            <LocalAuthorityBusinessID>PI/000053583</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>709</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>publicprotectionwest@wiltshire.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Wiltshire</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.wiltshire.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>SN8 1HD</PostCode>
+            <RatingDate>2023-02-20T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-1.73345</longitude>
+                <latitude>51.4193046</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>23-25 Eagle Walk</AddressLine2>
+            <AddressLine3>Central Milton Keynes</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>905813</FHRSID>
+            <LocalAuthorityBusinessID>87363</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>870</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>ehfst@milton-keynes.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Milton Keynes</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.milton-keynes.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>MK9 3AJ</PostCode>
+            <RatingDate>2022-08-18T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.753688991069794</longitude>
+                <latitude>52.0443305969238</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>5 Queen Arcade Queen Square</AddressLine1>
+            <AddressLine2/>
+            <AddressLine3>Liverpool</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>521661</FHRSID>
+            <LocalAuthorityBusinessID>PI/000234950</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>414</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>environmental.health@liverpool.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Liverpool</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.liverpool.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>L1 1EP</PostCode>
+            <RatingDate>2024-09-19T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-2.9830629</longitude>
+                <latitude>53.4078428</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>58 Garden Walk</AddressLine2>
+            <AddressLine3>Metrocentre</AddressLine3>
+            <AddressLine4>Gateshead</AddressLine4>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>853707</FHRSID>
+            <LocalAuthorityBusinessID>90152</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>410</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>EnvironmentalHealth@gateshead.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Gateshead</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.gateshead.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>NE11 9XY</PostCode>
+            <RatingDate>2024-10-09T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-1.668572</longitude>
+                <latitude>54.95765</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>121-127 PARK STREET</AddressLine1>
+            <AddressLine2/>
+            <AddressLine3>LONDON</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>427743</FHRSID>
+            <LocalAuthorityBusinessID>00206/0121/0/000</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>533</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>foodsafety@westminster.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Westminster</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.westminster.gov.uk/</LocalAuthorityWebSite>
+            <NewRatingPending>true</NewRatingPending>
+            <Phone/>
+            <PostCode>W1K 7JA</PostCode>
+            <RatingDate>2022-10-21T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.1560651</longitude>
+                <latitude>51.5133073</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>Unit 24 To 32 Even Wyndham Arcade</AddressLine1>
+            <AddressLine2>Cathays</AddressLine2>
+            <AddressLine3>Cardiff</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1280299</FHRSID>
+            <LocalAuthorityBusinessID>776298</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>556</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>FoodSafetyCardiff-SRSWales@valeofglamorgan.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Cardiff</LocalAuthorityName>
+            <LocalAuthorityWebSite>https://www.srs.wales/en/Environmental-Health/Food-Hygiene-Standards/Food.aspx</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>CF10 1FJ</PostCode>
+            <RatingDate>2023-10-12T00:00:00</RatingDate>
+            <RatingKey>fhrs_4_cy-gb</RatingKey>
+            <RatingValue>4</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>null</longitude>
+                <latitude>null</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>10</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>24 High Street</AddressLine1>
+            <AddressLine2>Canterbury</AddressLine2>
+            <AddressLine3/>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1091483</FHRSID>
+            <LocalAuthorityBusinessID>58681</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>180</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress> </LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Canterbury City</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.canterbury.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>CT1 2AY</PostCode>
+            <RatingDate>2024-02-22T00:00:00</RatingDate>
+            <RatingKey>fhrs_4_en-gb</RatingKey>
+            <RatingValue>4</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>1.0786399</longitude>
+                <latitude>51.2801015</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>10</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>58 Ship Street</AddressLine1>
+            <AddressLine2>Brighton</AddressLine2>
+            <AddressLine3/>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>206314</FHRSID>
+            <LocalAuthorityBusinessID>1998/00076/COMM</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>875</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>ehl.food@brighton-hove.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Brighton and Hove</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.brighton-hove.gov.uk/foodsafety</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>BN1 1AE</PostCode>
+            <RatingDate>2024-08-01T00:00:00</RatingDate>
+            <RatingKey>fhrs_2_en-gb</RatingKey>
+            <RatingValue>2</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.14181</longitude>
+                <latitude>50.821305</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>15</Hygiene>
+                <Structural>10</Structural>
+                <ConfidenceInManagement>10</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>3 Port Dundas Place</AddressLine2>
+            <AddressLine3>Glasgow</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>Ask Italian</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>371804</FHRSID>
+            <LocalAuthorityBusinessID>12/00458/COM</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>776</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>food.safety@glasgow.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Glasgow City</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.glasgow.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>G2 3LD</PostCode>
+            <RatingDate>2018-12-11T00:00:00</RatingDate>
+            <RatingKey>fhis_pass_en-gb</RatingKey>
+            <RatingValue>Pass</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHIS</SchemeType>
+            <geocode>
+                <longitude>-4.253253</longitude>
+                <latitude>55.865298</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>null</Hygiene>
+                <Structural>null</Structural>
+                <ConfidenceInManagement>null</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>9-13 Shandwick Place</AddressLine1>
+            <AddressLine2>Edinburgh</AddressLine2>
+            <AddressLine3/>
+            <AddressLine4/>
+            <BusinessName>ASK Italian Restaurant</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>662883</FHRSID>
+            <LocalAuthorityBusinessID>168523</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>773</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>environmentalhealth@edinburgh.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Edinburgh (City of)</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.edinburgh.gov.uk/foodsafety</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>EH2 4RG</PostCode>
+            <RatingDate>2023-11-10T00:00:00</RatingDate>
+            <RatingKey>fhis_pass_en-gb</RatingKey>
+            <RatingValue>Pass</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHIS</SchemeType>
+            <geocode>
+                <longitude>-3.208534</longitude>
+                <latitude>55.949713</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>null</Hygiene>
+                <Structural>null</Structural>
+                <ConfidenceInManagement>null</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>26 Entertainment Avenue</AddressLine1>
+            <AddressLine2/>
+            <AddressLine3>Greenwich</AddressLine3>
+            <AddressLine4/>
+            <BusinessName>ASK Italian The O2</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1331915</FHRSID>
+            <LocalAuthorityBusinessID>14065</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>511</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>Food.Concerns@royalgreenwich.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Greenwich</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.royalgreenwich.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>SE10 0DY</PostCode>
+            <RatingDate>2024-03-18T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>0.0050909</longitude>
+                <latitude>51.5034873</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>0</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>32 Warwick Street</AddressLine1>
+            <AddressLine2/>
+            <AddressLine3>Worthing</AddressLine3>
+            <AddressLine4>West Sussex</AddressLine4>
+            <BusinessName>Ask Italian Restaurants trading as Ask Italian and Coco di Mama Delivery Kitchen</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>1331756</FHRSID>
+            <LocalAuthorityBusinessID>9102983</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>329</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>publichealth.regulation@adur-worthing.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Worthing</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.adur-worthing.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>BN11 3DJ</PostCode>
+            <RatingDate>2023-02-08T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-0.367876650595338</longitude>
+                <latitude>50.8118303944798</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>5</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1>23 High Street</AddressLine1>
+            <AddressLine2/>
+            <AddressLine3>Shrewsbury</AddressLine3>
+            <AddressLine4>Shropshire</AddressLine4>
+            <BusinessName>Ask Italian &amp; Coco Di Mama</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>122285</FHRSID>
+            <LocalAuthorityBusinessID>50845</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>708</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>food@shropshire.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Shropshire</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.shropshire.gov.uk/foodhygienescheme</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>SY1 1SJ</PostCode>
+            <RatingDate>2024-03-25T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_en-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-2.7539058</longitude>
+                <latitude>52.7080005</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>5</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+        <EstablishmentDetail>
+            <AddressLine1/>
+            <AddressLine2>6 Wind Street</AddressLine2>
+            <AddressLine3/>
+            <AddressLine4>City Centre</AddressLine4>
+            <BusinessName>Ask Italian inc. Coco Di Mama</BusinessName>
+            <BusinessType>Restaurant/Cafe/Canteen</BusinessType>
+            <BusinessTypeID>1</BusinessTypeID>
+            <ChangesByServerID>0</ChangesByServerID>
+            <Distance>null</Distance>
+            <FHRSID>45326</FHRSID>
+            <LocalAuthorityBusinessID>11</LocalAuthorityBusinessID>
+            <LocalAuthorityCode>568</LocalAuthorityCode>
+            <LocalAuthorityEmailAddress>FoodandSafety@swansea.gov.uk</LocalAuthorityEmailAddress>
+            <LocalAuthorityName>Swansea</LocalAuthorityName>
+            <LocalAuthorityWebSite>http://www.swansea.gov.uk</LocalAuthorityWebSite>
+            <NewRatingPending>false</NewRatingPending>
+            <Phone/>
+            <PostCode>SA1 1DF</PostCode>
+            <RatingDate>2024-10-07T00:00:00</RatingDate>
+            <RatingKey>fhrs_5_cy-gb</RatingKey>
+            <RatingValue>5</RatingValue>
+            <RightToReply/>
+            <SchemeType>FHRS</SchemeType>
+            <geocode>
+                <longitude>-3.940339</longitude>
+                <latitude>51.619605</latitude>
+            </geocode>
+            <scores>
+                <Hygiene>0</Hygiene>
+                <Structural>5</Structural>
+                <ConfidenceInManagement>0</ConfidenceInManagement>
+            </scores>
+        </EstablishmentDetail>
+    </EstablishmentCollection>
+</FHRSestablishments>
